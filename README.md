@@ -1,7 +1,7 @@
 # Building Currency Converter in Python
 
 ## Author
-Name: Watcharapong Narod 
+Name: Watcharapong Narod
 Student ID: 25020076
 
 ## Description
@@ -19,8 +19,7 @@ Future Features:
 1. Ensure you have Python installed. This project uses Python version 3.11.
 2. Clone the repository to your local machine.
 3. Navigate to the project directory.
-4. Install the required packages using pip: pip install -r requirements.txt
-(Note: Ensure you have a `requirements.txt` file with all the necessary packages and their versions.)
+4. Install the required packages using pip:
 
 ## How to Run the Program
 1. Navigate to the project directory in your terminal or command prompt.
